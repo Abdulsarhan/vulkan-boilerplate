@@ -1,3 +1,3 @@
 # Vulkan Boilerplate
 Just keeping the boilerplate here so that I don't have to rewrite it.
-There running this example also contains code to render a triangle, so it's not just boilerplate.
+This code can also render a triangle when ran, so it's not just boilerplate.
